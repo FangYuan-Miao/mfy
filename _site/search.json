@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "学号：2025303110021\n专业：环境科学\n学习方向：环境化学\n\n\n\n\n\n主力编辑器：Positron（课程推荐）\nAI辅助插件：Cline（配置Claude/Kimi模型）\n核心工具：Quarto、Git、R Studio（备用）"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "About",
+    "section": "",
+    "text": "学号：2025303110021\n专业：环境科学\n学习方向：环境化学"
+  },
+  {
+    "objectID": "about.html#工具使用",
+    "href": "about.html#工具使用",
+    "title": "About",
+    "section": "",
+    "text": "主力编辑器：Positron（课程推荐）\nAI辅助插件：Cline（配置Claude/Kimi模型）\n核心工具：Quarto、Git、R Studio（备用）"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "苗芳源的个人主页",
+    "section": "",
+    "text": "学号：2025303110021\n专业：环境科学\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "苗芳源的个人主页",
+    "section": "",
+    "text": "学号：2025303110021\n专业：环境科学\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto"
+  }
+]
